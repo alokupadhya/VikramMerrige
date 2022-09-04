@@ -110,6 +110,15 @@ img {
     width: 100%;
     height: auto;
 }
+
+
+span.text-theme{
+    color: #b08c3e;
+    font-size: 24px;
+    font-weight: 400;
+    font-family: 'Alex Brush', cursive;
+}
+
 img {
     -webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
